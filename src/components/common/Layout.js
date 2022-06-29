@@ -152,7 +152,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Ghost
+                Ghostttt
               </a>
             </div>
             <div className="site-foot-nav-right">
