@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://kinohero.onrender.com",
-    "contentApiKey": "9993cd34c85ab03f86507cab77"
+    "contentApiKey": "90a64e2dfcb3fb2d545788f87c"
   },
   "production": {
     "apiUrl": "https://kinohero.onrender.com",
-    "contentApiKey": "9993cd34c85ab03f86507cab77"
+    "contentApiKey": "90a64e2dfcb3fb2d545788f87c"
   }
 }
