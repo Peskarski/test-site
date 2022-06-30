@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://test-31.ghost.io",
-    "contentApiKey": "c55bec9b49c0ea2df37a68e45f"
+    "apiUrl": "https://kinohero.onrender.com",
+    "contentApiKey": "9993cd34c85ab03f86507cab77"
   },
   "production": {
-    "apiUrl": "https://test-31.ghost.io",
-    "contentApiKey": "c55bec9b49c0ea2df37a68e45f"
+    "apiUrl": "https://kinohero.onrender.com",
+    "contentApiKey": "9993cd34c85ab03f86507cab77"
   }
 }
